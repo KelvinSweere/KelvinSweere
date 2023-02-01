@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍💻 Software Engineer @ Team Rockstars IT<br>🌱 React.JS & TypeScript
+ 👨‍💻 Software Engineer @ Team Rockstars IT<br>🌱 Angular
 
 
 ## 🌐 Socials:
