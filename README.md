@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍💻 Software Engineer @ Team Rockstars IT<br>🌱 Angular & Terraform
+ 👨‍💻 Full Stack Software Engineer @ Team Rockstars IT<br>🌱 Angular & Terraform
 
 
 ## 🌐 Socials:
