@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍💻 Full Stack Software Engineer @ Team Rockstars IT<br>🌱 Angular
+ 👨‍💻 Full Stack Software Engineer @ Fudura <br>🌱 Angular
 
 
 ## 🌐 Socials:
