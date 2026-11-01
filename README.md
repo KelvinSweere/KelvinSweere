@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍💻 Full Stack Software Engineer @ Fudura 
+ 👨‍💻 Software Engineer @ Fudura 
 
 
 ## 🌐 Socials:
